@@ -1,0 +1,9 @@
+{
+	"name": "nodebot-template",
+	"description": "A template bot for Nodechat",
+	"author": "Tiin57 <tiin57@gmail.com>",
+	"dependencies": {
+		"socket.io-client": "*"
+	},
+	"engine": "node >= 0.10.20"
+}

@@ -1,0 +1,6 @@
+{
+	"comment": "The 'ip' and 'port' fields shouldn't need to be changed.",
+	"ip": "nodechat.thecubeserver.com",
+	"port": 16555,
+	"key": "Replace this with the contents of /botkey in Nodechat"
+}
